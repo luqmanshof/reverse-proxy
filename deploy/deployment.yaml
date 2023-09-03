@@ -35,5 +35,3 @@ spec:
           initialDelaySeconds: 5
           periodSeconds: 5
       restartPolicy: Always
-
-
